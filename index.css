@@ -4,5 +4,8 @@
 }
 body{
 	background-color: hsl(350, 79%, 95%);
+}
 
+.title{
+	font-size: 90px;
 }
