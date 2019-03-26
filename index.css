@@ -14,13 +14,13 @@ body{
  
 .links{
 	display:inline-block;
-	margin-left: 20vh;
+	margin-left: 20vw;
  	text-align: center;
  	font-size: 50px;
  	font-family: 'Fira Sans Condensed', sans-serif;
  }
 #lab{
-	margin-left: 1vh;
+	margin-left: 1vw;
 }
 
 .peer-links{
