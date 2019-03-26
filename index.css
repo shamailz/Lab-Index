@@ -35,7 +35,7 @@ span{
 	font-family: 'Old Standard TT', serif;
 }
 
- a, a:visited, a:active{
+ a, a:visited{
  	color: hsl(168, 27%, 72%);
  	text-decoration: none;
  }
