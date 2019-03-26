@@ -8,6 +8,7 @@ body{
 
 .title{
 	text-align:center;
+	display: inline-block;
 	font-size: 100px;
 	font-family: 'Old Standard TT', serif;
  }
