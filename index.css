@@ -12,6 +12,12 @@ body{
 	font-family: 'Old Standard TT', serif;
  }
  
+.studio{
+	text-align:center;
+	font-size: 70px;
+	font-family: 'Old Standard TT', serif;
+ }
+
 .links{
 	display:inline-block;
 	 margin-left: 27vw;
