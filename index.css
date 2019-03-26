@@ -19,6 +19,9 @@ body{
  	font-size: 50px;
  	font-family: 'Fira Sans Condensed', sans-serif;
  }
+#lab{
+	margin-left: 1vh;
+}
 
 .peer-links{
  	text-align: center;
