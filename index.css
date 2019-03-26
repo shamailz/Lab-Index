@@ -14,7 +14,7 @@ body{
  
 .links{
  	text-align: center;
-	display:inline-block;
+	display:block;
  	font-size: 50px;
  	font-family: 'Fira Sans Condensed', sans-serif;
  }
